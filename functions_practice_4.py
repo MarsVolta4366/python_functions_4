@@ -75,4 +75,5 @@ def pascal(n):
     for row in triangle:
       print(row)
 
+
 pascal(5)
